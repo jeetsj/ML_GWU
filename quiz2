@@ -1,0 +1,1 @@
+When K = n, the model is simplest. But it leads to underfitting. When k=1, the error rate is always zero because the closest point to any training data point is itself. Hence, prediction is always accurate. Model becomes more complex. And it leads to overfitting.
